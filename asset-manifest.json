@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-budget-tracker/static/css/main.ca234dc8.css",
+    "main.js": "/react-budget-tracker/static/js/main.3c2b73a4.js",
+    "static/media/money.png": "/react-budget-tracker/static/media/money.9eedd35ce38ed09927fa.png",
+    "index.html": "/react-budget-tracker/index.html",
+    "main.ca234dc8.css.map": "/react-budget-tracker/static/css/main.ca234dc8.css.map",
+    "main.3c2b73a4.js.map": "/react-budget-tracker/static/js/main.3c2b73a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca234dc8.css",
+    "static/js/main.3c2b73a4.js"
+  ]
+}
