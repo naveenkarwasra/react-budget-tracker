@@ -271,12 +271,15 @@ li{
     height: 95vh;   
   }
 }
-@media(max-width: 395px){  
+@media(max-width: 414px){  
   .form-row2{
-    width: 47%;
+    width: 46.8%;
   }   
   .card-content{    
-    height: 75vh;   
+    height: 52vh;   
+  }
+  .form-display-card{    
+    height: 53vh;
   }
 }
 
